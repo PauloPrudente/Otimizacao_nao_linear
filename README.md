@@ -1,2 +1,2 @@
 # Univesp-Java
-Repositório de estudos :smile:
+Repositório de testes de algoritmos de otimização não linear :smile:
